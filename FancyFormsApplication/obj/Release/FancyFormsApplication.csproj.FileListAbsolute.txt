@@ -1,0 +1,14 @@
+E:\demo\FancySolution\FancyFormsApplication\bin\Release\license\Aspose.Total.lic
+E:\demo\FancySolution\FancyFormsApplication\bin\Release\FancyFormsApplication.exe
+E:\demo\FancySolution\FancyFormsApplication\bin\Release\FancyFormsApplication.pdb
+E:\demo\FancySolution\FancyFormsApplication\bin\Release\Aspose.Cells.dll
+E:\demo\FancySolution\FancyFormsApplication\bin\Release\Aspose.Pdf.dll
+E:\demo\FancySolution\FancyFormsApplication\bin\Release\Aspose.Words.dll
+E:\demo\FancySolution\FancyFormsApplication\bin\Release\Process.dll
+E:\demo\FancySolution\FancyFormsApplication\bin\Release\Process.pdb
+E:\demo\FancySolution\FancyFormsApplication\obj\Release\FancyFormsApplication.csprojResolveAssemblyReference.cache
+E:\demo\FancySolution\FancyFormsApplication\obj\Release\FancyFormsApplication.Form1.resources
+E:\demo\FancySolution\FancyFormsApplication\obj\Release\FancyFormsApplication.Properties.Resources.resources
+E:\demo\FancySolution\FancyFormsApplication\obj\Release\FancyFormsApplication.csproj.GenerateResource.Cache
+E:\demo\FancySolution\FancyFormsApplication\obj\Release\FancyFormsApplication.exe
+E:\demo\FancySolution\FancyFormsApplication\obj\Release\FancyFormsApplication.pdb

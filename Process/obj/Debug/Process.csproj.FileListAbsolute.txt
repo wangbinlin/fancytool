@@ -1,0 +1,14 @@
+E:\demo\ProcessDemo\Process\bin\Debug\Process.dll
+E:\demo\ProcessDemo\Process\bin\Debug\Process.pdb
+E:\demo\ProcessDemo\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+E:\demo\ProcessDemo\Process\obj\Debug\Process.ProcessForm.resources
+E:\demo\ProcessDemo\Process\obj\Debug\Process.csproj.GenerateResource.Cache
+E:\demo\ProcessDemo\Process\obj\Debug\Process.dll
+E:\demo\ProcessDemo\Process\obj\Debug\Process.pdb
+E:\demo\FancySolution\Process\bin\Debug\Process.dll
+E:\demo\FancySolution\Process\bin\Debug\Process.pdb
+E:\demo\FancySolution\Process\obj\Debug\Process.ProcessForm.resources
+E:\demo\FancySolution\Process\obj\Debug\Process.csproj.GenerateResource.Cache
+E:\demo\FancySolution\Process\obj\Debug\Process.dll
+E:\demo\FancySolution\Process\obj\Debug\Process.pdb
+E:\demo\FancySolution\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache

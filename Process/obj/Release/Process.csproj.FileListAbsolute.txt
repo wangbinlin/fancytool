@@ -1,0 +1,6 @@
+E:\demo\FancySolution\Process\bin\Release\Process.dll
+E:\demo\FancySolution\Process\bin\Release\Process.pdb
+E:\demo\FancySolution\Process\obj\Release\Process.ProcessForm.resources
+E:\demo\FancySolution\Process\obj\Release\Process.csproj.GenerateResource.Cache
+E:\demo\FancySolution\Process\obj\Release\Process.dll
+E:\demo\FancySolution\Process\obj\Release\Process.pdb
