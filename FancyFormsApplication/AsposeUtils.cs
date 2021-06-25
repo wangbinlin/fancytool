@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -39,8 +40,11 @@ namespace FancyFormsApplication
             image.File = file;
             Aspose.Pdf.Document doc = new Aspose.Pdf.Document();
             Aspose.Pdf.Page page = doc.Pages.Add();
-            // 添加图片到页面段落
+            // 添加图片到页面段落      
+            System.Drawing.Image image2 = System.Drawing.Image.FromFile(file);            
             page.Paragraphs.Add(image);
+            page.PageInfo.Height = image2.Height;
+            page.PageInfo.Width = image2.Width;
             doc.Save(pdfFile);
             return pdfFile;
         }
@@ -54,6 +58,10 @@ namespace FancyFormsApplication
                 Aspose.Pdf.Image image = new Aspose.Pdf.Image();
                 image.File = imgPath;
                 page.Paragraphs.Add(image);
+                System.Drawing.Image image2 = System.Drawing.Image.FromFile(imgPath);
+                page.Paragraphs.Add(image);
+                page.PageInfo.Height = image2.Height;
+                page.PageInfo.Width = image2.Width;
             }
             doc.Save(pdfFile);
             return pdfFile;
