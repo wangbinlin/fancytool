@@ -55,11 +55,11 @@ namespace FancyFormsApplication
             Aspose.Pdf.Page page = doc.Pages.Add();
             foreach (string imgPath in imgList)
             {
+                System.Drawing.Image image2 = System.Drawing.Image.FromFile(imgPath);
+
                 Aspose.Pdf.Image image = new Aspose.Pdf.Image();
                 image.File = imgPath;
-                page.Paragraphs.Add(image);
-                System.Drawing.Image image2 = System.Drawing.Image.FromFile(imgPath);
-                page.Paragraphs.Add(image);
+                page.Paragraphs.Add(image);                            
                 page.PageInfo.Height = image2.Height;
                 page.PageInfo.Width = image2.Width;
             }
